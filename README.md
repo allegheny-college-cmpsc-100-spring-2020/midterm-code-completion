@@ -112,6 +112,7 @@ For the purposes of this assignment, complete could should:
 ### `Widget.java`
 
 - [ ] Exists, **_untouched_**
+    * There is an extra credit opportunity in the file: to implement an item-by-item discount method; of course, if you choose this path -- modify away!
 
 You do not need to (and _should not_) make changes to this file. The table above provides its definitions and "powers."
 
